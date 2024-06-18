@@ -1,3 +1,2 @@
-## Hello!👋 I am Thanos
-I am working with videos 🎥 ✨
-
+## Hello!👋
+I am a PhD student at DTU Compute. I am working with videos 🎥 ✨
